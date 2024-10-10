@@ -183,7 +183,7 @@
     "fastify-warning": "^0.2.0",
     "find-my-way": "^4.0.0",
     "flatstr": "^1.0.12",
-    "light-my-request": "^4.2.0",
+    "light-my-request": "^5.14.0",
     "pino": "^6.2.1",
     "readable-stream": "^3.4.0",
     "rfdc": "^1.1.4",
